@@ -1,5 +1,5 @@
 # capstone
-these are all file for capstone
+these are all files for capstone
 
 
 topic of capstone: 
